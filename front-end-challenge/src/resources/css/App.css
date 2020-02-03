@@ -1,0 +1,49 @@
+.bck_blue {
+    background: #0d1831;
+}
+
+footer {
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 30px 0px;
+}
+
+footer .img_cover{
+   margin:0 auto;
+   padding:0
+}
+
+footer .footer_discl {
+    margin: 10px 0px;
+}
+
+.admin_container {
+    margin-top: 96px;
+    display:flex;
+}
+
+.admin_container .admin_left_nav {
+    min-height: 100vh;
+    background: #282828;
+    border-right: 2px solid #01285e;
+}
+
+.admin_container  .admin_right {
+    flex-grow: 1;
+}
+a:link {
+    font-size: 12px;
+    color: #999999;
+    text-decoration: none;
+}
+a:visited {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+   }
+a:hover {
+    font-size: 12px;
+    color: #999999;
+    text-decoration: underline;
+   }
